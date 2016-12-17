@@ -12,6 +12,6 @@
 				<?php the_content(); ?>
 		<?php }
 	}
-	else { echo: 'No posts found!'; )
+	else { echo 'No posts found!'; )
 
 ?>
